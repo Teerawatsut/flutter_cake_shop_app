@@ -1,4 +1,4 @@
-<p align="center"> ##flutter_cake_shop_app </p>
+<p align="center"> flutter_cake_shop_app </p>
 
 
 <p align="center">
